@@ -1,0 +1,55 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-color: rgb(241, 233, 233);
+}
+
+.root {
+  display: flex;
+}
+
+h1 {
+  text-align: center;
+  font-size: 32px;
+  font-family: tahoma;
+  margin: 30px 0;
+}
+
+.sub0 {
+  background-color: rgba(173, 217, 230, 255);
+  border: 2px solid rgba(66, 143, 125, 255);
+  padding: 30px;
+  border-radius: 10px;
+  padding: 30px;
+  margin: 10px;
+}
+
+.sub1 {
+  background-color: rgba(135, 206, 250, 255);
+  border: 2px solid rgba(66, 143, 125, 255);
+  border-radius: 10px;
+  padding: 5px;
+  margin: 10px;
+}
+
+.sub2 {
+  margin: 0 auto;
+  background-color: rgba(176, 196, 221, 255);
+  border: 2px solid rgba(66, 143, 125, 255);
+  border-radius: 10px;
+  padding: 5px;
+  width: 250px;
+  margin: 10px;
+}
+
+.sub3,
+.sub4,
+.sub5 {
+  margin: 0 auto;
+  background-color: rgba(255, 157, 122, 255);
+  border: 2px solid rgba(66, 143, 125, 255);
+  border-radius: 10px;
+  padding: 5px;
+  width: 200px;
+  margin: 10px;
+}
